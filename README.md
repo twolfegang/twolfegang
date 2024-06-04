@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Tim (@twolfegang)
+- 👋 Hi, I’m Tim Harris (@twolfegang)
 - 👀 I’m interested in machine learning, sports analytics, and web development
+- 🎓 I'm a master's student in computer science specializing in data science at Seattle University
 - 🌱 I’m currently learning how to build a regression model for sports predictions
+- 🔍 My bachelor's degree was in applied physics
 - 📫 How to reach me... email me at twolfeh@gmail.com or message me on LinkedIn @twolfegang
+- 🔗 Personal website: twolfegang.com
 - 😄 Pronouns: he/him
+- 🏒 Interests: hockey, football, hiking, camping, reading, cooking
