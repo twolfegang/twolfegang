@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tim (@twolfegang)
+- 👀 I’m interested in machine learning, sports analytics, and web development
+- 🌱 I’m currently learning how to build a regression model for sports predictions
+- 📫 How to reach me... email me at twolfeh@gmail.com or message me on LinkedIn @twolfegang
+- 😄 Pronouns: he/him
